@@ -16,11 +16,3 @@
 View a demo of the interface here: [Credit Analytics UI](https://drive.google.com/open?id=1ne4Oeo2v2sQ_5SbQPk_yN02hKrq3TV_f "Google Drive Video")
 
 
-<iframe src="https://drive.google.com/file/d/1ne4Oeo2v2sQ_5SbQPk_yN02hKrq3TV_f/preview" width="640" height="480"></iframe>
-
-
-[![IMAGE ALT TEXT HERE](https://drive.google.com/file/d/1ne4Oeo2v2sQ_5SbQPk_yN02hKrq3TV_f/preview)](https://drive.google.com/file/d/1ne4Oeo2v2sQ_5SbQPk_yN02hKrq3TV_f/preview)
-
-<a href="(https://drive.google.com/open?feature=player_embedded&v=1ne4Oeo2v2sQ_5SbQPk_yN02hKrq3TV_f
-" target="_blank"><img src="https://drive.google.com/file/d/1ne4Oeo2v2sQ_5SbQPk_yN02hKrq3TV_f/preview" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
