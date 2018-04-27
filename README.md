@@ -1,5 +1,5 @@
 # Sub-prime Automotive ABS Collateral Analysis
-#### Utilized python perform credit analysis on 6 Sub-prime Auto ABS deals
+#### Utilized Python to perform credit analysis on 6 Sub-prime Auto ABS deals
 **Deals:** 
 1. SDART 2017-1
 2. SDART 2017-2
