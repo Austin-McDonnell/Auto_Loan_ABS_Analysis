@@ -8,8 +8,6 @@
 5. DRIVE 2017-2
 6. DRIVE 2017-3
 
-*Going to add Exeter Auto ABS deals in the future*
-
 # Collateral Analytics Report User Interface 
 #### Developed a custom UI using Python and Plotly's Dash, a Python wrapper for Java Script and HTML
 
