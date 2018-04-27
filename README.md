@@ -17,3 +17,6 @@ View a demo of the interface here: [Credit Analytics UI](https://drive.google.co
 
 
 <iframe src="https://drive.google.com/file/d/1ne4Oeo2v2sQ_5SbQPk_yN02hKrq3TV_f/preview" width="640" height="480"></iframe>
+
+
+[![IMAGE ALT TEXT HERE](https://drive.google.com/file/d/1ne4Oeo2v2sQ_5SbQPk_yN02hKrq3TV_f/preview)](https://drive.google.com/open?id=1ne4Oeo2v2sQ_5SbQPk_yN02hKrq3TV_f)
