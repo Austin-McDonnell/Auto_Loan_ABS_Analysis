@@ -15,4 +15,6 @@
 
 View a demo of the interface here: [Credit Analytics UI](https://drive.google.com/open?id=1ne4Oeo2v2sQ_5SbQPk_yN02hKrq3TV_f "Google Drive Video")
 
+*This is an analysis on Non-performing data*
+
 ![Alt Text](https://github.com/Amcdonne95/Dash_Front_End/blob/master/Dashboard_2.0/Dash%20Gifs/Filter_Tables.gif)
