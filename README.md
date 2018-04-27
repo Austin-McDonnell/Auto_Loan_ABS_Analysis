@@ -14,3 +14,6 @@
 #### Developed a custom UI using Python and Plotly's Dash, a Python wrapper for Java Script and HTML
 
 View a demo of the interface here: [Credit Analytics UI](https://drive.google.com/open?id=1ne4Oeo2v2sQ_5SbQPk_yN02hKrq3TV_f "Google Drive Video")
+
+
+<iframe src="https://drive.google.com/file/d/1ne4Oeo2v2sQ_5SbQPk_yN02hKrq3TV_f/preview" width="640" height="480"></iframe>
