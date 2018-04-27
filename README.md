@@ -12,3 +12,5 @@
 
 # Collateral Analytics Report User Interface 
 #### Developed a custom UI using Python and Plotly's Dash, a Python wrapper for Java Script and HTML
+
+[![IMAGE ALT TEXT HERE](https://drive.google.com/open?id=1ne4Oeo2v2sQ_5SbQPk_yN02hKrq3TV_f/0.jpg)](https://drive.google.com/open?id=1ne4Oeo2v2sQ_5SbQPk_yN02hKrq3TV_f)
